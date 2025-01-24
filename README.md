@@ -10,7 +10,7 @@ Check out the video below for a walkthrough of this project! ⤵️
 
 Click on the link below to try it out:
 
-<a href="https://colab.research.google.com/github/nateraw/huggingpics/blob/main/HuggingPics.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/potnoodledev/huggingpics/blob/main/HuggingPics.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## How does it work?
 
@@ -27,9 +27,9 @@ Click on the link below to try it out:
 ![push to hub](images/push_to_hub.png)
 
 
-### Your auto-generated model repo will look something like [this](https://huggingface.co/nateraw/rare-puppers). Pretty cool, eh? 😎
+### Your auto-generated model repo will look something like [this](https://huggingface.co/potnoodledev/model-noodles). Pretty cool, eh? 😎
 
-![push to hub](images/rare_puppers_repo.png)
+![push to hub](images/noodles_repo.png)
 
 
 ## Examples
@@ -37,12 +37,12 @@ Click on the link below to try it out:
 💡 If you need some inspiration, take a look at the examples below:
 
 
-|            | [nateraw/rare-puppers](https://huggingface.co/nateraw/rare-puppers) | [nateraw/pasta-pizza-ravioli](https://huggingface.co/nateraw/pasta-pizza-ravioli) | [nateraw/baseball-stadium-foods](https://huggingface.co/nateraw/baseball-stadium-foods) | [nateraw/denver-nyc-paris](https://huggingface.co/nateraw/denver-nyc-paris) |
+|            | [potnoodledev/model-noodles](https://huggingface.co/potnoodledev/model-noodles)  | [nateraw/rare-puppers](https://huggingface.co/nateraw/rare-puppers)  | [nateraw/baseball-stadium-foods](https://huggingface.co/nateraw/baseball-stadium-foods) | [nateraw/denver-nyc-paris](https://huggingface.co/nateraw/denver-nyc-paris) |
 | ---------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **term_1** | samoyed                                                             | pizza                                                                             | cotton candy                                                                            | denver                                                                      |
-| **term_2** | shiba inu                                                           | pasta                                                                             | hamburger                                                                               | new york city                                                               |
-| **term_3** | corgi                                                               | ravioli                                                                           | hot dog                                                                                 | paris                                                                       |
-| **term_4** |                                                                     |                                                                                   | nachos                                                                                  |                                                                             |
-| **term_5** |                                                                     |                                                                                   | popcorn                                                                                 |                                                                             |
+| **term_1** | instant noodles                                                             | samoyed                                                                             | cotton candy                                                                            | denver                                                                      |
+| **term_2** | ramen                                                         | shiba inu                                                                               | hamburger                                                                               | new york city                                                               |
+| **term_3** | spaghetti                                                               | corgi                                                                           | hot dog                                                                                 | paris                                                                       |
+| **term_4** | pho                                                                    |                                                                                   | nachos                                                                                  |                                                                             |
+| **term_5** | japchae                                                                    |                                                                                   | popcorn                                                                                 |                                                                             |
 
 You can see a full list of model repos created using this tool by [clicking here](https://huggingface.co/models?filter=huggingpics)

@@ -9,8 +9,8 @@ setup(
     version='0.0.1',
     license='MIT',
     description='🤗🖼️ HuggingPics: Fine-tune Vision Transformers for anything using images found on the web.',
-    author='Nathan Raw',
-    author_email='naterawdata@gmail.com',
-    url='https://github.com/nateraw/huggingpics',
+    author='potnoodledev',
+    author_email='me@potnoodle.dev',
+    url='https://github.com/potnoodledev/huggingpics',
     install_requires=requirements,
 )
